@@ -12,4 +12,3 @@ ModuleNotFoundError: No module named 'tensorflow'
 Use in shell (poetry shell) pip install tensorflow
 
 ----------------------------------------------------------------------------
-for error LLVM ERROR: Symbol not found: __svml_sqrtf8 wait to update numpy or numba :(
